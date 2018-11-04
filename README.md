@@ -1,2 +1,2 @@
 # hello-world
-learning
+learning how to create an open repo using github
